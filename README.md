@@ -7,7 +7,7 @@
 ### Graduate student, Department of Mathematics, Gyeongsang National University
 - I major in **Analysis and Applied mathematics** and I am studying to become **Machine Learning Engineer**.
 
-### ❤️‍🔥 Interest
+### 🔥 Interest
 - Machine Learning Opitmization
 - Computer Vision
 - Dynamical Modeling, PDEs
