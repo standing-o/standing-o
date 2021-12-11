@@ -12,7 +12,7 @@
 - Computer Vision
 - Dynamical Modeling, PDEs
 
-#### 👉 [`[Curriculum Vitae]`](https://drive.google.com/file/d/1G-OvjyGyTXwQ0I5ZblAGm3eEvPtE2CfF/view?usp=sharing)
+#### 👉 [`[Curriculum Vitae]`](https://drive.google.com/file/d/1G1yaxGtj8IPUl-jNAD5xmzbVTLNKw7Yz/view?usp=sharing)
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](github.io주소)  -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seoyoung-oh-309a24200/)](https://www.linkedin.com/in/seoyoung-oh-309a24200/) 
