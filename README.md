@@ -10,11 +10,9 @@
 ### Interest
 - Machine Learning Opitmization
 - Computer Vision
-- Dynamical Modeling
-- MLOps(Machine Learing Operation)
-- Google Cloud Platform
+- Dynamical Modeling, PDEs
 
-<div align=center>
+### 👉 ['[Curriculum Vitae]'](https://drive.google.com/file/d/1G-OvjyGyTXwQ0I5ZblAGm3eEvPtE2CfF/view?usp=sharing)
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](github.io주소)  -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seoyoung-oh-309a24200/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) 
