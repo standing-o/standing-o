@@ -15,7 +15,7 @@
 #### 👉 [`[Curriculum Vitae]`](https://drive.google.com/file/d/1G-OvjyGyTXwQ0I5ZblAGm3eEvPtE2CfF/view?usp=sharing)
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](github.io주소)  -->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seoyoung-oh-309a24200/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/grim_540/)](https://www.instagram.com/data.scientist/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seoyoung-oh-309a24200/)](https://www.linkedin.com/in/seoyoung-oh-309a24200/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/grim_540/)](https://www.instagram.com/grim_540/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:osyoung540@gmail.com)
 </div>
