@@ -14,7 +14,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:osyoung540@gmail.com)
 </div>
 
-<div align=center>
+<div align=left>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOH-Seoyoung)](https://hits.seeyoufarm.com) 
 
