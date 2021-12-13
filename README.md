@@ -3,7 +3,7 @@
 
 ### 🔥 Interest
 - Machine Learning Opitmization
-- Computer Vision
+- Computer Vision, Time series forecasting
 - Dynamical Modeling, PDEs
 
 #### 👉 [`[Curriculum Vitae]`](https://drive.google.com/file/d/1G1yaxGtj8IPUl-jNAD5xmzbVTLNKw7Yz/view?usp=sharing)
