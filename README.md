@@ -2,7 +2,7 @@
 - I major in **Analysis and Applied mathematics** and I am studying to become **Machine Learning Engineer**.
 
 ### 🔥 Interest
-- Machine Learning Opitmization
+- XAI, Machine Learning Opitmization
 - Computer Vision, Time series forecasting
 - Dynamical Modeling, PDEs
 
