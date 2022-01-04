@@ -6,7 +6,7 @@
 - Computer Vision, Time series forecasting
 - Dynamical Modeling, PDEs
 
-#### 👉 [`[Curriculum Vitae]`](https://drive.google.com/file/d/1G1yaxGtj8IPUl-jNAD5xmzbVTLNKw7Yz/view?usp=sharing)
+#### 👉 [`[Curriculum Vitae]`](https://drive.google.com/file/d/1QitZMGX9rmve__-Z0tn7-0mcWm34y7Lj/view?usp=sharing)
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](github.io주소)  -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOH-Seoyoung)](https://hits.seeyoufarm.com) 
