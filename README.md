@@ -2,9 +2,9 @@
 - I major in **Analysis and Applied mathematics** and I am studying to become **Machine Learning Engineer**.
 
 ### 🔥 Interest
-- XAI, Machine Learning Opitmization
-- Computer Vision, Time series forecasting
+- XAI, Time series forecasting
 - Dynamical Modeling, PDEs
+- Mlops, GCP
 
 #### 👉 [`[Curriculum Vitae]`](https://drive.google.com/file/d/1SJjzMHfwaK5BwJ8_aEB0YEMKZMBaomWg/view?usp=sharing)
 
