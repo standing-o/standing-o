@@ -8,7 +8,7 @@
 
 #### 👉 [`[Curriculum Vitae]`](https://drive.google.com/file/d/1SJjzMHfwaK5BwJ8_aEB0YEMKZMBaomWg/view?usp=sharing)
 
-<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://standing-o.github.io/)](github.io주소)  -->
+<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://standing-o.github.io/)](https://standing-o.github.io/)  -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstanding-o)](https://hits.seeyoufarm.com) 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://standing-o.github.io/about/)](https://standing-o.github.io/about/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/grim_540/)](https://www.instagram.com/grim_540/) 
