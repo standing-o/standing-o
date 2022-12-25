@@ -1,5 +1,5 @@
 ### Graduate student, Department of Mathematics, Gyeongsang National University
-- I major in **Analysis and Applied mathematics** and I am studying to become **Machine Learning Engineer**.
+- I major in **Analysis and Applied mathematics** and I am studying to become **Machine Learning Scientist/Engineer**.
 
 ### 🔥 Interest
 - Time Series Forecasting, Computer Vision, XAI
