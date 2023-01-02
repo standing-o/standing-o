@@ -6,7 +6,7 @@
 - Dynamical Modeling, PDEs
 - MLops, GCP
 
-#### 👉 [`[Curriculum Vitae]`](https://drive.google.com/file/d/1SJjzMHfwaK5BwJ8_aEB0YEMKZMBaomWg/view?usp=sharing)
+#### 👉 [`[Portfolio]`]()
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://standing-o.github.io/)](https://standing-o.github.io/)  -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstanding-o)](https://hits.seeyoufarm.com) 
@@ -17,4 +17,4 @@
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=standing-o)](https://github.com/standing-o/github-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=standing-o&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=standingo&color=dark)](https://github.com/eungyeole/velog-readme-stats)
