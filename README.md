@@ -17,4 +17,4 @@
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=standing-o)](https://github.com/standing-o/github-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=standing-o)](https://github.com/standing-o/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=standing-o)](https://github.com/eungyeole/velog-readme-stats)
