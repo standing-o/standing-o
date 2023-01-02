@@ -16,6 +16,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osyoung540@gmail.com)](mailto:osyoung540@gmail.com)
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=standing-o)](https://github.com/standing-o/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=standing-o)](https://github.com/standing-o/github-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=standing-o)]([벨로그링크](https://velog.io/@standing-o))
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=standing-o)]([https://velog.io/@standing-o])
