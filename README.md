@@ -6,7 +6,7 @@
 - Dynamical Modeling, PDEs
 - MLops, GCP
 
-#### 👉 [`[Portfolio]`]()
+#### 👉 [`[Portfolio]`](https://drive.google.com/file/d/1ljhuJgMvdgwOYVguBFhgTwfpwPi06ybV/view)
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://standing-o.github.io/)](https://standing-o.github.io/)  -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstanding-o)](https://hits.seeyoufarm.com) 
