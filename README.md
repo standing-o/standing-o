@@ -1,4 +1,4 @@
-### Graduate student, Department of Mathematics, Gyeongsang National University
+### AI Researcher / Data Scientist
 - I major in **Analysis and Applied mathematics** and I am studying to become **Machine Learning Scientist/Engineer**.
 
 ### 🔥 Interest
