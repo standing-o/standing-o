@@ -6,7 +6,7 @@
 - Dynamical Modeling, PDEs
 - MLops, GCP
 
-#### 👉 [`[Portfolio]`](https://special-grip-6f7.notion.site/Seoyoung-Oh-2a6b295b15b4435bb7b945bb07a572ae)
+#### 👉 [`[Portfolio]`](https://special-grip-6f7.notion.site/Seoyoung-Oh-2a6b295b15b4435bb7b945bb07a572ae) [`[CV]`](https://drive.google.com/file/d/1vzYT_S-LjxLp_wHYyBfB_DpSY-SlEAAK/view?usp=sharing)
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://standing-o.github.io/)](https://standing-o.github.io/)  -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstanding-o)](https://hits.seeyoufarm.com) 
