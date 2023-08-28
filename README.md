@@ -1,4 +1,4 @@
-### AI Researcher / Data Scientist
+### Data Scientist / ML Engineer
 - I major in **Analysis and Applied mathematics** and I am studying to become **Machine Learning Scientist/Engineer**.
 
 ### 🔥 Interest
