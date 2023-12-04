@@ -2,7 +2,7 @@
 - I major in **Analysis and Applied mathematics** and I am studying to become **Machine Learning Scientist/Engineer**.
 
 ### 🔥 Interest
-- Time Series Forecasting, Computer Vision, XAI
+- Time-series Forecasting, Computer Vision, Speech (Audio), XAI
 - MLops, Kafka, GCP, AWS
 - Dynamical Modeling, PDEs
 
