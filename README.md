@@ -6,7 +6,7 @@
 - MLops, Kafka, Docker, GCP, AWS
 - Dynamical Modeling, PDEs
 
-#### 👉 [`[Portfolio]`](https://special-grip-6f7.notion.site/Seoyoung-Oh-2a6b295b15b4435bb7b945bb07a572ae) [`[CV]`](https://drive.google.com/file/d/1OjteReBVmUsjkPZkqQe6A6MwNP94NBJ4/view?usp=sharing](https://drive.google.com/file/d/171QYtItZgA1e1x4w_tubQp0FPEzsTVto/view?usp=drivesdk)
+#### 👉 [`[Portfolio]`](https://special-grip-6f7.notion.site/Seoyoung-Oh-2a6b295b15b4435bb7b945bb07a572ae) [`[CV]`](https://drive.google.com/file/d/171QYtItZgA1e1x4w_tubQp0FPEzsTVto/view?usp=drivesdk)
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://standing-o.github.io/)](https://standing-o.github.io/)  -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstanding-o)](https://hits.seeyoufarm.com) 
