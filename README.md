@@ -2,8 +2,8 @@
 - I major in **Analysis and Applied mathematics** and I am studying to become **Machine Learning Scientist/Engineer**.
 
 ### 🔥 Interest
-- Time-series Forecasting, Computer Vision, Speech (Audio), XAI
-- MLops, Kafka, GCP, AWS
+- Time-series Forecasting, Computer Vision, Natural Language Processing, Speech (Audio), XAI
+- MLops, Kafka, Docker, GCP, AWS
 - Dynamical Modeling, PDEs
 
 #### 👉 [`[Portfolio]`](https://special-grip-6f7.notion.site/Seoyoung-Oh-2a6b295b15b4435bb7b945bb07a572ae) [`[CV]`](https://drive.google.com/file/d/1OjteReBVmUsjkPZkqQe6A6MwNP94NBJ4/view?usp=sharing)
