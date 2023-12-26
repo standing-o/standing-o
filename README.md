@@ -3,7 +3,7 @@
 
 ### 🔥 Interest
 - Time-series Forecasting, Computer Vision, Natural Language Processing, Speech (Audio), XAI
-- MLops, Kafka, Docker, GCP, AWS
+- MLops, Kafka, FastAPI, Docker, GCP, AWS
 - Dynamical Modeling, PDEs
 
 #### 👉 [`[Portfolio]`](https://special-grip-6f7.notion.site/Seoyoung-Oh-2a6b295b15b4435bb7b945bb07a572ae) | [`[CV]`](https://drive.google.com/file/d/171QYtItZgA1e1x4w_tubQp0FPEzsTVto/view?usp=drivesdk)    
