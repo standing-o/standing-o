@@ -1,5 +1,6 @@
 ### Data Scientist / ML Engineer
-- I major in **Analysis and Applied mathematics** and I am studying to become **Machine Learning Scientist/Engineer**.
+> Proficient in Problem Framing through Data Analysis, Applying AI-Driven Approaches
+
 
 ### 🔥 Interest
 - Time-series Forecasting, Computer Vision, Natural Language Processing, Speech (Audio), XAI
