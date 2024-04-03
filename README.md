@@ -3,7 +3,7 @@
 
 
 ### 🔥 Interest
-- Time-series Forecasting, Computer Vision, Natural Language Processing, Speech (Audio), XAI
+- Time-series Forecasting, Computer Vision, Natural Language Processing (LLM), Speech (Audio), XAI
 - MLops, Kafka, FastAPI, Docker, GCP, AWS
 - Dynamical Modeling, PDEs
 
