@@ -3,9 +3,9 @@
 
 
 ### 🔥 Interest
-- Time-series Forecasting, Computer Vision, Natural Language Processing (LLM), Speech (Audio), XAI
+- Medical AI, Time-series Forecasting, Computer Vision, LLM, Audio (Speech), Anomaly Detection, XAI
 - MLops, Kafka, FastAPI, Docker, GCP, AWS
-- Dynamical Modeling, PDEs
+- Dynamical Modeling, PDEs, Graph Theory
 
 #### 👉 [`[Portfolio]`](https://special-grip-6f7.notion.site/Seoyoung-Oh-2a6b295b15b4435bb7b945bb07a572ae) | [`[CV]`](https://drive.google.com/file/d/1auPO34VT3Kt9y3yVWYdAvtUTHAns7GMc/view?usp=sharing)    
 
