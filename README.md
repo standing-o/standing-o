@@ -2,7 +2,7 @@
 > Proficient in Problem Framing through Data Analysis and Applying AI-Driven Approaches
 
 
-### 🔥 Interest
+### 🔥 <u>Interest</u>
 - Medical AI <sup> Histo/Cyto Pathology </sup>, Computer Vision <sup>ViT, VLM</sup>, Time-series Forecasting <sup>LSTM, Transformer</sup>
 - NLP <sup>LLM, SLM</sup>, Audio (Speech), OOD Detection, XAI
 - MLops, Kafka, FastAPI, Docker, GCP, AWS
