@@ -5,7 +5,7 @@
 ### 🔥 Interest
 - Medical AI <sup> Histo/Cyto Pathology </sup>, Computer Vision <sup>ViT, VLM</sup>, Time-series Forecasting <sup>LSTM, Transformer</sup>
 - NLP <sup>LLM, SLM</sup>, Audio (Speech), OOD Detection, XAI
-- MLops, Kafka, FastAPI, Docker, GCP, AWS
+- MLOps, Kafka, FastAPI, Docker, GCP, AWS
 - Mathematical Modelling <sup>Dynamics of ODE, PDEs</sup>, Topological Data Analysis, Mathematical Data Science, Graph Theory
 
 #### 👉 [`[Portfolio]`](https://special-grip-6f7.notion.site/Seoyoung-Oh-2a6b295b15b4435bb7b945bb07a572ae) | [`[CV]`](https://drive.google.com/file/d/16F1vR2HZ-w0kAyu4zLBaLMqFqSFUjynA/view?usp=sharing)    
