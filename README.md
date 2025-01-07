@@ -1,5 +1,5 @@
-### Data Scientist / ML Engineer
-> Proficient in Problem Framing through Data Analysis and Applying AI-Driven Approaches
+### Data Scientist | ML Engineer
+> Proficient in Problem Framing/Solving through Mathematical Data Analysis and Applying AI-Driven Approaches
 
 
 ### 🔥 Interest
