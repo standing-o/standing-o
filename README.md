@@ -9,7 +9,7 @@
 - MLOps, Kafka, FastAPI, Docker, GCP, AWS
 - Mathematical Modelling <sup>Dynamics of ODE, PDEs</sup>, Topological Data Analysis, Mathematical Data Science, Graph Theory
 
-#### 👉 [`[Portfolio]`](https://special-grip-6f7.notion.site/Seoyoung-Oh-2a6b295b15b4435bb7b945bb07a572ae) | [`[CV]`](https://drive.google.com/file/d/1hwoWQEXxsmvShhA7aYSA8tqzRcoThUj3/view?usp=sharing)     
+#### 👉 [`[Portfolio]`](https://special-grip-6f7.notion.site/Seoyoung-Oh-2a6b295b15b4435bb7b945bb07a572ae) | [`[CV]`](https://drive.google.com/file/d/1OExL-WWVDvL_Fn9RfzlCFc0-g7fY60X7/view?usp=sharing)     
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://standing-o.github.io/)](https://standing-o.github.io/)  -->
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fstanding-o&label=2025-HiTs&icon=emoji-smile-upside-down-fill&color=%23198754)[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://standing-o.github.io)](https://standing-o.github.io) 
