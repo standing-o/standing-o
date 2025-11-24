@@ -3,8 +3,9 @@
 
 
 ### 🔥 Interest
-- Medical AI <sup> Histo/Cyto Pathology </sup>, Computer Vision <sup>ViT, VLM</sup>, Time-series Forecasting <sup>LSTM, Transformer</sup>
-- NLP <sup>LLM, SLM</sup>, Audio (Speech), OOD Detection, XAI
+- Multi-LLM/Agent System, Multimodal Content AI, Manufacturing AI, Medical AI <sup>Histo/Cyto Pathology</sup>
+- Generative AI <sup>SD, SDXL, LoRA</sup>, Text-to-Image/Video, Time-series Forecasting <sup>LSTM, Transformer</sup>
+- Computer Vision <sup>CNN, ViT, VLM</sup>, NLP <sup>LLM, SLM</sup>, Audio (Speech), OOD/Anomaly Detection, XAI
 - MLOps, Kafka, FastAPI, Docker, GCP, AWS
 - Mathematical Modelling <sup>Dynamics of ODE, PDEs</sup>, Topological Data Analysis, Mathematical Data Science, Graph Theory
 
