@@ -17,5 +17,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%9C%EC%98%81-%EC%98%A4-309a24200/)](https://www.linkedin.com/in/%EC%84%9C%EC%98%81-%EC%98%A4-309a24200/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osyoung540@gmail.com)](mailto:osyoung540@gmail.com)
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=standing-o)](https://github.com/standing-o/github-readme-stats)
